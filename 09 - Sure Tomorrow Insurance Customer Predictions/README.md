@@ -22,4 +22,5 @@ This project builds machine learning models to predict customer insurance claims
 - Certain customer attributes strongly correlate with claim probability  
 - Logistic Regression and Random Forest models perform reliably  
 - Feature importance highlights key risk indicators  
+
 - Prediction pipeline can help assess customer risk at scale  
