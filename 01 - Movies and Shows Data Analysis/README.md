@@ -22,4 +22,5 @@ This project explores a Movies & TV Shows dataset to uncover insights about genr
 - Movies typically range from ~90–120 minutes  
 - TV shows often have 1–3 seasons  
 - The U.S. and India are major content producers  
+
 - Recent content has more variability in user ratings  
