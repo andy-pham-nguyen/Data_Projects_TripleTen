@@ -21,4 +21,5 @@ This project performs an exploratory data analysis (EDA) on the Instacart Market
 - Fresh produce and everyday essentials dominate top-ordered items  
 - Shopping peaks occur during late mornings and weekends  
 - Some departments (produce, dairy, snacks) see significantly higher reorder rates  
+
 - Reorder probability increases after multiple previous purchases of the same item
