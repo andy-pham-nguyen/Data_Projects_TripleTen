@@ -20,4 +20,5 @@ This project analyzes customer behavior for the Megaline telecom company to dete
 - Ultimate users generally spend more on average due to higher plan fees  
 - Surf users tend to exceed included minutesdata more frequently  
 - Internet usage shows strong growth across both plans  
+
 - Hypothesis tests help validate whether user behavior differs significantly between plans
