@@ -22,4 +22,5 @@ This project integrates multiple data sources to evaluate mining site performanc
 - Certain regions show significantly stronger resource potential  
 - Geological features strongly correlate with production output  
 - Predictive modeling helps estimate future yield with reasonable accuracy  
+
 - Risk analysis helps compare sites under uncertainty  
