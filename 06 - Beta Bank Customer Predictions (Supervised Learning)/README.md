@@ -22,4 +22,5 @@ This project builds machine learning models to predict customer churn for Beta B
 - Class imbalance significantly impacts model performance  
 - Upsampling and downsampling both improve churn detection  
 - Random Forest and Logistic Regression often perform well after tuning  
+
 - Specific behavioral features strongly correlate with churn risk  
