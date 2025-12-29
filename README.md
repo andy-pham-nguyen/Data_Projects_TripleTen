@@ -45,12 +45,3 @@ This serves as a full directory of my data portfolio — each project includes a
 <img align="left" src="https://img.shields.io/badge/Seaborn-4A90E2?logo=python&logoColor=white" />
 
 <br><br>
-
----
-
-## 📁 Repository Structure
-Each project folder includes:
-- A Jupyter Notebook with full analysis
-- A project-specific README
-- Visualizations and outputs
-- Supporting datasets (where permitted)
