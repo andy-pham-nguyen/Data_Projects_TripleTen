@@ -22,4 +22,5 @@ This project focuses on identifying the most profitable region for drilling new 
 - Each region exhibits distinct geological patterns affecting yield  
 - Predictions help estimate average well output before drilling  
 - Profitability analysis reveals which region provides the best ROI  
+
 - Bootstrapping highlights risk levels and confidence intervals for decision-making  
