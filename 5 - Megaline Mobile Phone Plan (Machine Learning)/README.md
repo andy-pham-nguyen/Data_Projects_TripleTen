@@ -22,4 +22,5 @@ This project builds machine learning models to predict which mobile phone planâ€
 - Usage patterns strongly influence plan selection  
 - Data consumption is one of the most important predictive features  
 - Random Forest / Decision Tree models typically perform the best  
+
 - Model performance improves with hyperparameter optimization  
