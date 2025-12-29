@@ -23,4 +23,5 @@ This project builds time series forecasting models to predict hourly taxi order 
 - Taxi orders follow strong hourly and daily patterns  
 - Demand peaks typically occur during rush hours  
 - Gradient boosting models often outperform basic statistical methods  
+
 - Feature engineering significantly improves model accuracy
