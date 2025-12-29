@@ -22,4 +22,5 @@ This project develops a machine learning model to predict car market values for 
 - Model performance varies significantly by algorithm and feature set  
 - Gradient boosting models (e.g., LightGBM) typically provide best accuracy  
 - Vehicle age, mileage, model, and condition strongly influence price  
+
 - Training time and computational cost differ across models
