@@ -21,4 +21,5 @@ This project analyzes historical video game sales data to identify trends and bu
 - Certain genres (e.g., Action, Sports) consistently dominate global sales  
 - Historical peak sales often align with major console lifecycles  
 - Platform popularity shifts significantly over time  
+
 - Forecasting models can help predict expected sales based on genre, region, and release year  
