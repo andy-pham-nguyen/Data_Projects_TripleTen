@@ -1,54 +1,94 @@
-# 📂 Data Projects — TripleTen & Independent Work
+# 👋 Andy Pham-Nguyen — Data Analyst / Data Scientist
 
-Projects completed during the **TripleTen Data Analysis Bootcamp**, along with additional independent analytics, machine learning, NLP, and computer vision projects.  
-This repository serves as a full directory of my data science portfolio — each project includes a problem statement, methodology, results, and tools used.
+Welcome to my data science portfolio. This repository contains projects completed during the **TripleTen Data Analysis Bootcamp** and additional independent projects focused on analytics, machine learning, NLP, computer vision, and forecasting.
 
----
-
-## 📘 Table of Contents
-
-| **#** | **Project Title** | **Description** |
-|------|-------------------|-----------------|
-| **1** | **Movies & TV Shows Data Analysis** | Exploratory data analysis to uncover trends in genres, ratings, release patterns, and content performance. |
-| **2** | **Instacart Market Basket Analysis** | Investigated customer purchase behavior, reorder tendencies, and product popularity to understand consumer shopping habits. |
-| **3** | **Megaline Telecom Plan Profitability Analysis (SDA)** | Statistical analysis comparing Surf vs. Ultimate plans to determine profitability and customer usage patterns. |
-| **4** | **Video Game Sales Forecasting** | Analyzed historical video game performance and built predictive insights for future sales across platforms and genres. |
-| **5** | **Megaline Mobile Plan Prediction (Machine Learning)** | Built classification models to predict which phone plan customers are most likely to choose based on usage behavior. |
-| **6** | **Beta Bank Customer Churn Prediction** | Developed churn prediction models to identify customers at risk of leaving and support retention strategies. |
-| **7** | **OilyGiant Well Placement Optimization** | Predicted oil well productivity and evaluated regional profitability to select the most profitable drilling region. |
-| **8** | **Mining Integration Project** | Integrated datasets and models to evaluate mining performance, predict yield, and assess regional risk. |
-| **9** | **Sure Tomorrow Insurance Customer Predictions** | Built machine learning models to predict insurance claim likelihood and support risk decision-making. |
-| **10** | **Rusty Bargain Car Price Prediction App** | Developed ML models to estimate used-car prices and automate dealership pricing decisions. |
-| **11** | **Sweet Lift Taxi Orders Forecasting (Time Series)** | Built time-series models to predict hourly taxi demand and optimize operations. |
-| **12** | **Film Junky Union Review Moderation System (NLP)** | Built NLP models to classify movie reviews and detect negative sentiment using TF-IDF and BERT embeddings. |
-| **13** | **Automated Age Verification System (Computer Vision)** | Developed a CNN-based model to predict customer age from facial images for retail compliance applications. |
-| **14** | **Telecom Customer Churn Prediction & Retention Strategy (Capstone)** | Integrated multiple telecom datasets to predict churn and provide actionable retention recommendations using ML models. |
+My work demonstrates end-to-end data workflows: data cleaning, exploratory analysis, modeling, evaluation, and business insight communication.
 
 ---
 
-## 🎯 Skills Demonstrated Across Projects
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Statistical Hypothesis Testing  
-- Machine Learning Modeling & Evaluation  
-- Natural Language Processing (NLP)  
-- Computer Vision & Deep Learning  
-- Time Series Forecasting  
-- Feature Engineering & Model Optimization  
-- Business Insight Communication & Reporting  
+## 🧠 About Me
+
+- 🎓 TripleTen Data Science Graduate  
+- 📊 Background in Quality Control & Biotech Operations  
+- 🤖 Passionate about data-driven decision-making, predictive modeling, and automation  
+- 🎯 Actively seeking **Data Analyst / Data Scientist roles**
+
+🔗 **Portfolio:** https://github.com/andy-pham-nguyen/Data_Projects_TripleTen  
+🔗 **LinkedIn:** https://www.linkedin.com/in/andy-pham-nguyen1/  
+📧 **Email:** andyphamnguyen712@gmail.com  
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🚀 Project Portfolio
 
-<img align="left" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/NLTK-3A7BD5?logo=python&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Seaborn-4A90E2?logo=python&logoColor=white" />
+## 📘 Core Data Analytics & Machine Learning Projects
 
-<br><br>
+| # | Project | Description |
+|---|---------|-------------|
+| **1** | Movies & TV Shows Data Analysis | Explored media trends, genre popularity, ratings, and release patterns using EDA and visualization. |
+| **2** | Instacart Market Basket Analysis | Analyzed customer purchase behavior, reorder patterns, and product popularity. |
+| **3** | Megaline Telecom Plan Profitability Analysis | Statistical analysis comparing Surf vs Ultimate plans using hypothesis testing. |
+| **4** | Video Game Sales Forecasting | Forecasted video game sales trends across platforms and genres. |
+| **5** | Megaline Mobile Plan Prediction | Machine learning classification to predict customer plan selection. |
+| **6** | Beta Bank Customer Churn Prediction | Built churn prediction models to improve retention strategies. |
+| **7** | OilyGiant Well Placement Optimization | Predicted oil well yield and evaluated drilling region profitability. |
+| **8** | Mining Integration Project | Integrated datasets to predict mining yield and assess risk. |
+| **9** | Sure Tomorrow Insurance Customer Predictions | Predicted insurance claim likelihood using ML models. |
+| **10** | Rusty Bargain Car Price Prediction App | Predicted used car prices using gradient boosting models. |
+| **11** | Sweet Lift Taxi Orders Forecasting | Time series forecasting of hourly taxi demand. |
+
+---
+
+## 🤖 Advanced Machine Learning, NLP & Computer Vision
+
+| # | Project | Description |
+|---|---------|-------------|
+| **12** | Film Junky Union Review Moderation System (NLP) | Built sentiment classification models using TF-IDF and BERT embeddings (F1 ≥ 0.85). |
+| **13** | Automated Age Verification System (Computer Vision) | CNN-based facial age estimation model for retail alcohol compliance. |
+| **14** | Telecom Customer Churn Prediction & Retention Strategy (Capstone) | End-to-end churn prediction pipeline with integrated datasets and business retention insights. |
+
+---
+
+# 🧩 Skills & Expertise
+
+### 📊 Data & Analytics
+- Data Cleaning & Wrangling (Pandas, NumPy)
+- Exploratory Data Analysis (EDA)
+- Statistical Hypothesis Testing
+- Business Analytics & Reporting
+
+### 🤖 Machine Learning
+- Logistic Regression, Random Forest, Gradient Boosting
+- Feature Engineering & Model Optimization
+- ROC-AUC, F1, RMSE, MAE Evaluation
+
+### 🧠 Deep Learning & NLP
+- Natural Language Processing (TF-IDF, BERT)
+- Computer Vision (CNNs, TensorFlow/Keras)
+- Sentiment Analysis & Text Classification
+
+### ⏱ Time Series
+- Lag Features & Rolling Windows
+- Demand Forecasting Models
+
+---
+
+# 🛠 Tools & Technologies
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4A90E2?logo=python&logoColor=white" />
+
+---
+
+# 📁 Repository Structure
+
+Each project folder contains:
+- README.md # Project overview & results
+- notebook.ipynb # Full analysis and modeling
+- Additional Data and Datasets
