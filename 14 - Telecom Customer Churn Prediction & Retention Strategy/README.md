@@ -1,34 +1,41 @@
-# 📡 Telecom Customer Churn Prediction & Retention Strategy
+# 📊 Telecom Customer Churn Prediction & Retention Strategy
 
-## 📌 Overview
-This project builds machine learning models to predict customer churn for a telecom company and provide insights to improve customer retention. By integrating multiple customer datasets (contracts, services, and personal information), the project identifies key factors driving churn and evaluates predictive models using ROC-AUC and other metrics.
-
-The goal is to help the business proactively target at-risk customers and reduce revenue loss.
+## 📌 Executive Summary  
+This project analyzes telecom customer data to predict churn and identify key behavioral drivers influencing customer retention. Machine learning models were developed to detect high-risk churn segments and generate actionable business recommendations to improve customer lifecycle management.
 
 ---
 
-## ✨ Features
-- Data integration from multiple telecom datasets  
-- Data cleaning and preprocessing  
-- Exploratory data analysis (EDA) on customer behavior and churn drivers  
-- Feature engineering (contract type, tenure, services, charges, demographics)  
-- Machine learning model training (Logistic Regression, Random Forest, Gradient Boosting, etc.)  
-- Model evaluation using ROC-AUC, accuracy, precision, recall, and confusion matrix  
-- Business insights for retention strategy  
+## 🧩 Problem Statement  
+Customer churn significantly impacts revenue and growth in subscription-based businesses. This project aims to build predictive models to identify customers likely to churn and uncover key factors driving churn behavior to support proactive retention strategies.
 
 ---
 
-## 🛠 Tech Stack
-- Python 3.10+
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
-- Jupyter Notebook
+## 🛠️ Tools & Technologies  
+- Python (pandas, NumPy, scikit-learn)  
+- Data Visualization (matplotlib, seaborn)  
+- SQL  
+- Machine Learning (Logistic Regression, Random Forest)  
 
 ---
 
-## 📊 Key Results
-- Built end-to-end churn prediction pipeline with integrated datasets  
-- Achieved strong ROC-AUC performance indicating reliable churn detection  
-- Identified key churn drivers such as contract type, tenure, and monthly charges  
-- Provided actionable retention recommendations (e.g., incentives for short-tenure users and month-to-month contracts)  
+## 🔍 Methodology  
+1. Data preprocessing and cleaning  
+2. Exploratory data analysis (EDA)  
+3. Feature engineering  
+4. Model training and evaluation  
+5. Business insights and retention recommendations  
+
+---
+
+## 📈 Key Findings  
+- Contract type, tenure, and monthly charges were major churn drivers  
+- Random Forest outperformed baseline models in predictive accuracy  
+- High-risk churn segments were identified for targeted intervention  
+
+---
+
+## 💡 Business Recommendations  
+- Target month-to-month customers with retention incentives  
+- Offer contract discounts for long-term subscriptions  
+- Monitor billing complaints and service issues as churn indicators  
+- Implement early-warning churn scoring systems  
